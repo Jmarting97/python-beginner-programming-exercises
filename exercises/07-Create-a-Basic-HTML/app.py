@@ -11,3 +11,6 @@ h = '<body>'
 
 # ✅ ↓ start coding below here ↓ ✅
 
+the_new_string = e + ' ' + c + ' ' + g + ' ' + a + ' ' + f + ' ' + h + ' ' + d + ' ' + b
+print(the_new_string)
+
